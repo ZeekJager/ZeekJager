@@ -16,6 +16,8 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zachabera1999))
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Zachabera1999)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zachabera1999#gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetCode&logoColor=white)](https://leetcode.com/zachabera1999/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/zachabera1999)
 
 # 🛠 Tech Stack:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -44,5 +46,5 @@
 
 ## Most Used Languages
 
-```text
-[Insert top languages or add other stats here]
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeekJager&langs_count=5&theme=radical)
+
